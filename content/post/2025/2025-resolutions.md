@@ -19,7 +19,7 @@ Principles:
 - ✅ Matrix: Take the TEF exam and achieve B1 level by the end of the year.
 - 📌 Actions:
   - Write a short French text daily.
-  - Enroll a French-speaking classes.
+  - Enroll French-speaking classes.
   - Listen to 1 French podcast daily.
   - Attend a weekly language exchange event (if available).
 
@@ -35,8 +35,7 @@ Principles:
 - ✅ Matrix: Review your communication skills by each end of month
 - 📌 Actions:
   - Read to 2-3 books on communication.
-  - Actively participate in discussions in developer communities.
-  - Engage in at least two different communities to refine communication skills.
+  - Engage in at least 2-3 different communities to improve communication skills.
 
 ### Volunteering
 - ✅ Matrix: Participate in a developer community
@@ -48,11 +47,11 @@ Principles:
 - ✅ Matrix: Publish 10 blog posts
 - 📌 Actions:
   - Write about insights from projects or deep dives into technical topics.
-  - Share content on platforms like here or Medium.
+  - Share content on platforms like here, Medium or other platforms.
 
 ### Close to Nature
 - ✅ Matrix: Sign up for 4-5 hiking trails
 - 📌 Actions:
   - Plan one hiking trip each quarter.
-  - Spend time in nature with a focus on relaxation.
-  - Join a hiking group for motivation and social engagement.
+  - Spend time in nature.
+  - Join a hiking group for motivation and social engagement (if available).
